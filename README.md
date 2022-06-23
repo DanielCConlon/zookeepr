@@ -15,3 +15,13 @@
 - Implement functionality called middleware so our server can understand the type of data we are looking to post.
 
 - Use a tool called Insomnia to test POST requests while we wait for a finished front end.
+
+# 11.3
+
+- Created GET routes that serve HTML content instead of JSON.
+
+- Implemented a special Express.js middleware function that helps serve front-end assets.
+
+- Used front-end JavaScript to send data to our POST routes.
+
+- Deepened your knowledge and revisited front-end GET functionality using the Fetch API.
