@@ -25,3 +25,11 @@
 - Used front-end JavaScript to send data to our POST routes.
 
 - Deepened your knowledge and revisited front-end GET functionality using the Fetch API.
+
+# 11.4
+
+- Break out animal functions into their own files in a lib/ directory.
+
+- Use express.Router() instead of app.
+
+- Create new endpoints and data for zookeepers.
