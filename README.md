@@ -1,35 +1,22 @@
 # zookeepr
 
-# 11.1
+- Github URL: https://github.com/DanielCConlon/u-develop-it
+- Heroku URL: https://lit-sierra-88684.herokuapp.com/
 
-- Set up and run a Node.js web server using Express.js
+## Table-of-Contents
 
-- Handled two types of GET requests using parameters
+- [Description](#description)
+- [Usage](#usage)
+- [Application](#application)
 
-- Created a production-ready application and deployed it to Heroku
+## [Description](#description)
 
-# 11.2
+This application is called zoo-keepr deployed through heroku following steps from a course module. Utilizing Express.js and a front end already created.
 
-- Create a different type of API endpoint to accept incoming (often called POST) data from a client's request.
+## [Usage](#table-of-contents)
 
-- Implement functionality called middleware so our server can understand the type of data we are looking to post.
+Open the website and enter an animal or zookeepers. You can view all the animals or zookeepers by clicking the buttons.
 
-- Use a tool called Insomnia to test POST requests while we wait for a finished front end.
+## [Application](#table-of-contents)
 
-# 11.3
-
-- Created GET routes that serve HTML content instead of JSON.
-
-- Implemented a special Express.js middleware function that helps serve front-end assets.
-
-- Used front-end JavaScript to send data to our POST routes.
-
-- Deepened your knowledge and revisited front-end GET functionality using the Fetch API.
-
-# 11.4
-
-- Break out animal functions into their own files in a lib/ directory.
-
-- Use express.Router() instead of app.
-
-- Create new endpoints and data for zookeepers.
+![Website image](./public/assets/images/Capture.PNG)
