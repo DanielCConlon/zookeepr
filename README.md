@@ -1,7 +1,8 @@
 # zookeepr
 
 - Github URL: https://github.com/DanielCConlon/u-develop-it
-- Heroku URL: https://lit-sierra-88684.herokuapp.com/
+- Heroku URL: updating heroku deployment
+<!-- https://lit-sierra-88684.herokuapp.com/ -->
 
 ## Table-of-Contents
 
